@@ -230,8 +230,8 @@ body
     cursor: pointer;
     font-size: 1em;
     text-align: center;
-    width: auto; /* Make sure the button width adjusts to content */
-    max-width: 200px; /* Prevent it from being too wide */
+    width: auto; 
+    max-width: 200px; 
     margin-top: 10px;
 }
 
